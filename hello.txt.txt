@@ -1,1 +1,2 @@
 Hello, this is a change from a new branch!
+Update from the feature branch.
